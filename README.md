@@ -1,6 +1,8 @@
 # 🧙‍♂️ WizardAPI
 
-**WizardAPI** is a magical Python framework that lets developers cast spells as if they were powerful wizards. Whether you want to throw fireballs at bugs or summon dragons to help with debugging — WizardAPI has you covered.
+**WizardAPI** is a magical Python framework that lets developers cast spells as
+if they were powerful wizards. Whether you want to throw fireballs at bugs or
+summon dragons to help with debugging — WizardAPI has you covered.
 
 > Because coding is already magic. Let's make it official.
 
@@ -26,7 +28,7 @@ pip install wizardapi
 Or, from source:
 
 ```bash
-git clone https://github.com/yourusername/wizardapi.git
+git clone https://github.com/elena-soloveva/wizardapi.git
 cd wizardapi
 python setup.py install
 ```
@@ -59,9 +61,10 @@ Bug takes 42 fire damage.
 ## 📚 Documentation
 
 Full documentation is available at:
-👉 [https://yourusername.github.io/wizardapi/](https://yourusername.github.io/wizardapi/)
+👉 [https://elena-soloveva.github.io/wizardapi/](https://elena-soloveva.github.io/wizardapi/)
 
-Built with [Sphinx](https://www.sphinx-doc.org) using Markdown and [MyST Parser](https://myst-parser.readthedocs.io/).
+Built with [Sphinx](https://www.sphinx-doc.org) using Markdown and [MyST
+Parser](https://myst-parser.readthedocs.io/).
 
 ---
 
